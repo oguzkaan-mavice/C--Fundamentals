@@ -4,68 +4,34 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace NetFramework.S1.D1.TypeConversion
+namespace NetFramework.S1.D2.ReferrenceTypeBehaviour
 {
     class Program
     {
         static void Main(string[] args)
         {
+            Car cardefinition1 = new Car();
+            cardefinition1.brand = "Opel";
+            cardefinition1.model = "Corsa";
+            cardefinition1.colour = "Blue";
 
+            Car cardefinition2 = cardefinition1;
 
-
-            byte sayi1 = byte.MaxValue;
-            sayi1 = byte.MinValue;
-            //bilincli tür donusumu
-
-            int sayi2 = 125;
-            sayi1 = (byte)sayi2;
-
-            Console.WriteLine(sayi1);
-
-            //bilincsiz tur donusumu
-
-            double sayi3 = 10;
-            sayi3 = sayi2;
-
-            Console.WriteLine(sayi3);
-
-            //checked - unchecked
-
-            // eğer donusumde değer, deger kaybına uğrayacaksa; orneğin
-            // double'dan int'e veya yine sınırları dışında olmak uzere
-            // int'ten byte donerken kapsam dısında kalma durumu olursa deger kaybı olur.
-
-            unchecked
-            {
-                sayi2 = 512;
-
-                sayi1 = (byte)sayi2;
-            }
-           /* checked // deger kaybı yasadığında hata vermesi için
-            {
-                sayi2 = 512;
-
-                sayi1 = (byte)sayi2;
-
-            } */
-            // object
-
-            object temeltip = sayi2;
-            temeltip = sayi3;
-            temeltip = new
-            {
-                brand = "Opel",
-                model = "Corsa",
-
-            };
-
-            // Boxing işlemi
-
-            temeltip = sayi2; // boxing işlemi 
-            sayi2 = (int)temeltip;//unboxing işlemi
-  
+            cardefinition2.colour = "Red";
+            cardefinition2.model = "Astra";
+            // cardefinition 2 ile cardefinition 1 ortak referans gösterdiğinden
+            // definition2 deki değişiklik ile definition 1 i de değiştirdim.
+            // çünkü bu iki tanımlama heap bölümünde ortak bir referansa gidiyor.
 
 
         }
+    }
+
+    class Car
+    {
+        public string brand;
+        public string model;
+        public string colour;
+
     }
 }
