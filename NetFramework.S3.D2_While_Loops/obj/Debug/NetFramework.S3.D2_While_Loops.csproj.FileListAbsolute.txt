@@ -1,0 +1,7 @@
+C:\C#\NetFramework\NetFramework\NetFramework.S3.D2_While_Loops\bin\Debug\NetFramework.S3.D2_While_Loops.exe.config
+C:\C#\NetFramework\NetFramework\NetFramework.S3.D2_While_Loops\bin\Debug\NetFramework.S3.D2_While_Loops.exe
+C:\C#\NetFramework\NetFramework\NetFramework.S3.D2_While_Loops\bin\Debug\NetFramework.S3.D2_While_Loops.pdb
+C:\C#\NetFramework\NetFramework\NetFramework.S3.D2_While_Loops\obj\Debug\NetFramework.S3.D2_While_Loops.csprojAssemblyReference.cache
+C:\C#\NetFramework\NetFramework\NetFramework.S3.D2_While_Loops\obj\Debug\NetFramework.S3.D2_While_Loops.csproj.CoreCompileInputs.cache
+C:\C#\NetFramework\NetFramework\NetFramework.S3.D2_While_Loops\obj\Debug\NetFramework.S3.D2_While_Loops.exe
+C:\C#\NetFramework\NetFramework\NetFramework.S3.D2_While_Loops\obj\Debug\NetFramework.S3.D2_While_Loops.pdb
