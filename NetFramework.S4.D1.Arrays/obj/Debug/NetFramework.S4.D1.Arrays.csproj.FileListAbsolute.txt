@@ -1,0 +1,7 @@
+C:\C#\NetFramework\NetFramework\NetFramework.S4.D1.Arrays\bin\Debug\NetFramework.S4.D1.Arrays.exe.config
+C:\C#\NetFramework\NetFramework\NetFramework.S4.D1.Arrays\bin\Debug\NetFramework.S4.D1.Arrays.exe
+C:\C#\NetFramework\NetFramework\NetFramework.S4.D1.Arrays\bin\Debug\NetFramework.S4.D1.Arrays.pdb
+C:\C#\NetFramework\NetFramework\NetFramework.S4.D1.Arrays\obj\Debug\NetFramework.S4.D1.Arrays.csprojAssemblyReference.cache
+C:\C#\NetFramework\NetFramework\NetFramework.S4.D1.Arrays\obj\Debug\NetFramework.S4.D1.Arrays.csproj.CoreCompileInputs.cache
+C:\C#\NetFramework\NetFramework\NetFramework.S4.D1.Arrays\obj\Debug\NetFramework.S4.D1.Arrays.exe
+C:\C#\NetFramework\NetFramework\NetFramework.S4.D1.Arrays\obj\Debug\NetFramework.S4.D1.Arrays.pdb
