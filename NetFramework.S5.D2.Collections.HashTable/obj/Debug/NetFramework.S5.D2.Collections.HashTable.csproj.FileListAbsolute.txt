@@ -1,0 +1,7 @@
+C:\C#\NetFramework\NetFramework\NetFramework.S5.D2.Collections.HashTable\bin\Debug\NetFramework.S5.D2.Collections.HashTable.exe.config
+C:\C#\NetFramework\NetFramework\NetFramework.S5.D2.Collections.HashTable\bin\Debug\NetFramework.S5.D2.Collections.HashTable.exe
+C:\C#\NetFramework\NetFramework\NetFramework.S5.D2.Collections.HashTable\bin\Debug\NetFramework.S5.D2.Collections.HashTable.pdb
+C:\C#\NetFramework\NetFramework\NetFramework.S5.D2.Collections.HashTable\obj\Debug\NetFramework.S5.D2.Collections.HashTable.csprojAssemblyReference.cache
+C:\C#\NetFramework\NetFramework\NetFramework.S5.D2.Collections.HashTable\obj\Debug\NetFramework.S5.D2.Collections.HashTable.csproj.CoreCompileInputs.cache
+C:\C#\NetFramework\NetFramework\NetFramework.S5.D2.Collections.HashTable\obj\Debug\NetFramework.S5.D2.Collections.HashTable.exe
+C:\C#\NetFramework\NetFramework\NetFramework.S5.D2.Collections.HashTable\obj\Debug\NetFramework.S5.D2.Collections.HashTable.pdb
