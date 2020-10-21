@@ -1,0 +1,7 @@
+C:\C#\NetFramework\NetFramework\NetFramework.S6.D1.MethodApplication\bin\Debug\NetFramework.S6.D1.MethodApplication.exe.config
+C:\C#\NetFramework\NetFramework\NetFramework.S6.D1.MethodApplication\bin\Debug\NetFramework.S6.D1.MethodApplication.exe
+C:\C#\NetFramework\NetFramework\NetFramework.S6.D1.MethodApplication\bin\Debug\NetFramework.S6.D1.MethodApplication.pdb
+C:\C#\NetFramework\NetFramework\NetFramework.S6.D1.MethodApplication\obj\Debug\NetFramework.S6.D1.MethodApplication.csprojAssemblyReference.cache
+C:\C#\NetFramework\NetFramework\NetFramework.S6.D1.MethodApplication\obj\Debug\NetFramework.S6.D1.MethodApplication.csproj.CoreCompileInputs.cache
+C:\C#\NetFramework\NetFramework\NetFramework.S6.D1.MethodApplication\obj\Debug\NetFramework.S6.D1.MethodApplication.exe
+C:\C#\NetFramework\NetFramework\NetFramework.S6.D1.MethodApplication\obj\Debug\NetFramework.S6.D1.MethodApplication.pdb
