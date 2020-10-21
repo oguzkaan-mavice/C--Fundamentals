@@ -1,0 +1,7 @@
+C:\C#\NetFramework\NetFramework\NetFramework.S5.D1.Collections\bin\Debug\NetFramework.S5.D1.Collections.exe.config
+C:\C#\NetFramework\NetFramework\NetFramework.S5.D1.Collections\bin\Debug\NetFramework.S5.D1.Collections.exe
+C:\C#\NetFramework\NetFramework\NetFramework.S5.D1.Collections\bin\Debug\NetFramework.S5.D1.Collections.pdb
+C:\C#\NetFramework\NetFramework\NetFramework.S5.D1.Collections\obj\Debug\NetFramework.S5.D1.Collections.csprojAssemblyReference.cache
+C:\C#\NetFramework\NetFramework\NetFramework.S5.D1.Collections\obj\Debug\NetFramework.S5.D1.Collections.csproj.CoreCompileInputs.cache
+C:\C#\NetFramework\NetFramework\NetFramework.S5.D1.Collections\obj\Debug\NetFramework.S5.D1.Collections.exe
+C:\C#\NetFramework\NetFramework\NetFramework.S5.D1.Collections\obj\Debug\NetFramework.S5.D1.Collections.pdb
